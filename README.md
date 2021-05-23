@@ -5,11 +5,11 @@ all of the following languages
 
 ### Python
 ### java
-## C++
-## Go
-## Haskel
-## Dart
-## Ruby
-## Scala
-## Rust
-## TypeScript
+### C++
+### Go
+### Haskel
+### Dart
+### Ruby
+### Scala
+### Rust
+### TypeScript
